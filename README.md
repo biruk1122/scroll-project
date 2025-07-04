@@ -37,5 +37,5 @@ Built with **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
-<img src="img/screenshout 1.PNG" alt="Scroll Project Screenshot" width="600">
-<img src="img/screenshout 2.PNG" alt="Scroll Project Screenshot" width="600">
+<img src="img/screenshout 1.PNG" alt="Scroll Project Screenshot" >
+<img src="img/screenshout 2.PNG" alt="Scroll Project Screenshot" >
